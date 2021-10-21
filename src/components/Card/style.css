@@ -1,0 +1,19 @@
+li.Card-component {
+  padding: 1em;
+  background-color: #e8e8e8;
+
+  display: flex;
+  flex-direction: column;
+  gap: 0.5em;
+
+  box-shadow: 0 0 10px #b1b1b1;
+  border-radius: 15px;
+}
+
+li.Card-component strong {
+  font-size: 1.3rem;
+}
+
+li.Card-component p {
+  text-align: justify;
+}
